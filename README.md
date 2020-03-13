@@ -24,3 +24,12 @@ The following properties can be configured:
 | ------ | -----------
 | `text` | The text to display. <br><br> **Example:** `'Hello world!'` <br> **Default value:** `'Hello world!'`
 | `size` | The size of the text
+
+## Changes
+
+version 0.1 - Initial commit
+
+## Software
+
+Written by Andy Brown (C)2020
+https://github.com/andyb2000
